@@ -1,0 +1,22 @@
+# User recordings and recoverable partial recordings
+recordings/
+*.wav
+*.recording.wav
+
+# Local Python environments and caches
+.venv/
+.build-venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller output and metadata
+.build/
+build/
+dist/
+*.spec
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
